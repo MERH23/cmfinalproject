@@ -4,9 +4,8 @@ This is done by graphing the frequency (in Hz) in the horizontal axis and the am
 This creates the opportunity for those who are hard of hearing to have a way to interact with music, 
 albeit in a visual sense rather than an auditory sense. 
 
-Users are encouraged to use the tutorial notebook in this repository and the example notebooks provided. 
-Please remember that the songs used in those notebooks are examples and you can use any song or audio file 
-of your choice as long as it is a WAV file.
+Users are encouraged to use the tutorial notebook in this repository. Please remember that the songs used in the tutorial notebook is a
+placeholder and you can use any song or audio file of your choice as long as it is a WAV file.
 
 To use WaveShow please follow the instructions below:
 Open terminal (for Mac users) or type "CMD" into Windows taskbar (in Windows).
